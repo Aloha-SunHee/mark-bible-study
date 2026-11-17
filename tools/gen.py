@@ -101,7 +101,7 @@ def section_html(sec, sid):
  </div>
  <div class="two lower">
   <div class="col"><div class="lab">生词 · 단어</div><table class="vocab">{vocab_rows}</table></div>
-  {f'<div class="col"><div class="lab">English Words</div><ol class="notes">{notes_html}</ol></div>' if numbered else '<div class="col empty"><div class="lab">English Words</div><p class="pend">NAB 본문이 들어오면 단어 각주가 붙습니다.</p></div>'}
+  {f'<div class="col"><div class="lab">English Words</div><ol class="notes">{notes_html}</ol></div>' if numbered else '<div class="col empty"><div class="lab">English Words</div><p class="pend">이 절에는 영어 단어 각주가 없습니다.</p></div>'}
  </div>
  {gram}
 </article>''')
@@ -123,7 +123,7 @@ for line in open('data/notes.txt', encoding='utf-8'):
         IPA.setdefault(term, '/' + ipa + '/')
         lst.append([term, gloss] + ([match] if match else []))
     NOTES[key] = lst
-FIX = [('《依撒意亚书上》', '《依撒意亚书》上'), ('握往', '握住'), ('È’', ''), ('祇', '只')]
+FIX = [('詑', '诧'), ('唾沬', '唾沫'), ('《依撒意亚书上》', '《依撒意亚书》上'), ('握往', '握住'), ('È’', ''), ('祇', '只')]
 
 def fill(sec):
     for v in sec['verses']:
