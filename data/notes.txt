@@ -423,3 +423,137 @@
 12:43 contributor [kənˈtrɪbjətər] 헌금한 사람 {contributors}
 12:44 surplus [ˈsɜːrpləs] 여분의 ; poverty [ˈpɑːvərti] 가난 ; livelihood [ˈlaɪvlihʊd] 생활비, 생계
 11:33 in reply [ɪn rɪˈplaɪ] 대답하여 {reply} ; neither [ˈniːðər] ~도 아니다 {Neither}
+13:1 make one's way [meɪk weɪ] 나아가다 {making his way}
+13:2 throw down [θroʊ daʊn] 허물다 {thrown down}
+13:3 privately [ˈpraɪvətli] 따로
+13:4 come to an end [kʌm tu ən end] 끝나다 {end}
+13:5 deceive [dɪˈsiːv] 속이다 {deceives}
+13:7 alarmed [əˈlɑːrmd] 놀란
+13:8 nation [ˈneɪʃən] 민족 ; earthquake [ˈɜːrθkweɪk] 지진 {earthquakes} ; famine [ˈfæmɪn] 기근 {famines} ; labor pains [ˈleɪbər peɪnz] 산고, 진통 {labor pains}
+13:9 court [kɔːrt] 법정 {courts} ; arraign [əˈreɪn] 법정에 세우다 {arraigned} ; governor [ˈɡʌvərnər] 총독 {governors} ; witness [ˈwɪtnəs] 증인, 증언
+13:10 nation [ˈneɪʃən] 민족 {nations}
+13:11 worry [ˈwɜːri] 걱정하다 ; beforehand [bɪˈfɔːrhænd] 미리
+13:13 hate [heɪt] 미워하다 {hated} ; persevere [ˌpɜːrsəˈvɪr] 끝까지 견디다 {perseveres}
+13:14 desolating [ˈdesəleɪtɪŋ] 황폐하게 하는 ; abomination [əˌbɑːmɪˈneɪʃən] 혐오스러운 것 ; flee [fliː] 달아나다
+13:15 housetop [ˈhaʊstɑːp] 지붕 위
+13:17 woe [woʊ] 불행 ; pregnant [ˈpreɡnənt] 임신한 ; nursing mother [ˈnɜːrsɪŋ ˈmʌðər] 젖먹이가 딸린 어머니 {nursing mothers}
+13:19 tribulation [ˌtrɪbjuˈleɪʃən] 환난
+13:20 shorten [ˈʃɔːrtən] 줄이다 {shortened} ; the elect [ði ɪˈlekt] 뽑힌 이들 {elect}
+13:22 false [fɔːls] 거짓의 ; wonder [ˈwʌndər] 기적 {wonders} ; mislead [mɪsˈliːd] 속이다
+13:23 watchful [ˈwɑːtʃfəl] 조심하는, 깨어 있는
+13:24 darken [ˈdɑːrkən] 어두워지다 {darkened}
+13:25 shake [ʃeɪk] 흔들다 {shaken}
+13:27 gather [ˈɡæðər] 모으다
+13:28 lesson [ˈlesən] 교훈 ; tender [ˈtendər] 연한
+13:30 pass away [pæs əˈweɪ] 사라지다 {pass away}
+13:33 alert [əˈlɜːrt] 깨어 있는
+13:34 travel abroad [ˈtrævəl əˈbrɔːd] 먼 길을 떠나다 {traveling abroad} ; in charge [ɪn tʃɑːrdʒ] 책임을 맡은 {charge} ; gatekeeper [ˈɡeɪtkiːpər] 문지기 ; on the watch [ɑːn ðə wɑːtʃ] 깨어 지키는 {on the watch}
+13:35 midnight [ˈmɪdnaɪt] 한밤중 ; cockcrow [ˈkɑːkkroʊ] 닭 울 녘
+14:1 Passover [ˈpæsoʊvər] 파스카, 과월절 ; unleavened [ʌnˈlevənd] 누룩 없는 ; treachery [ˈtretʃəri] 배신, 속임수
+14:2 festival [ˈfestɪvəl] 축제 ; riot [ˈraɪət] 폭동
+14:3 recline [rɪˈklaɪn] 기대어 앉다 {reclining} ; alabaster jar [ˈæləbæstər dʒɑːr] 옥합 {alabaster jar} ; perfumed oil [pərˈfjuːmd ɔɪl] 향유 {perfumed oil} ; spikenard [ˈspaɪknɑːrd] 나르드
+14:4 waste [weɪst] 낭비
+14:5 infuriated [ɪnˈfjʊrieɪtɪd] 몹시 화난
+14:6 let alone [let əˈloʊn] 내버려 두다 {Let her alone}
+14:8 anticipate [ænˈtɪsɪpeɪt] 미리 하다 {anticipated} ; burial [ˈberiəl] 장례
+14:9 in memory of [ɪn ˈmeməri əv] ~을 기념하여 {memory}
+14:11 promise [ˈprɑːmɪs] 약속하다 {promised} ; opportunity [ˌɑːpərˈtuːnəti] 기회
+14:12 sacrifice [ˈsækrɪfaɪs] 제물로 바치다 {sacrificed} ; lamb [læm] 어린 양
+14:13 jar [dʒɑːr] 항아리, 동이
+14:14 guest room [ɡest ruːm] 손님방 {guest room}
+14:15 upper room [ˈʌpər ruːm] 이층 방 {upper room} ; furnished [ˈfɜːrnɪʃt] 갖추어진
+14:18 betray [bɪˈtreɪ] 배반하다
+14:19 distressed [dɪˈstrest] 괴로운 ; surely [ˈʃʊrli] 설마
+14:20 dip [dɪp] (빵을) 적시다 {dips} ; dish [dɪʃ] 그릇
+14:21 woe [woʊ] 불행
+14:24 covenant [ˈkʌvənənt] 계약 ; shed [ʃed] 흘리다
+14:25 vine [vaɪn] 포도나무
+14:26 hymn [hɪm] 찬미가
+14:27 strike [straɪk] 치다 ; disperse [dɪˈspɜːrs] 흩어지다 {dispersed}
+14:30 cock [kɑːk] 수탉 ; crow [kroʊ] (닭이) 울다 {crows} ; deny [dɪˈnaɪ] 부인하다
+14:31 vehemently [ˈviːəməntli] 격렬하게 ; similarly [ˈsɪmələrli] 비슷하게
+14:32 Gethsemane [ɡeθˈseməni] 겟세마니
+14:33 troubled [ˈtrʌbəld] 괴로운
+14:34 sorrowful [ˈsɑːroʊfəl] 슬픈 ; keep watch [kiːp wɑːtʃ] 깨어 있다 {keep watch}
+14:35 advance [ədˈvæns] 나아가다 {advanced}
+14:36 Abba [ˈɑːbə] 아빠
+14:38 undergo [ˌʌndərˈɡoʊ] 겪다 ; willing [ˈwɪlɪŋ] 기꺼이 하는 ; weak [wiːk] 약한
+14:39 withdraw [wɪðˈdrɔː] 물러가다 {Withdrawing}
+14:41 enough [ɪˈnʌf] 충분한
+14:42 betrayer [bɪˈtreɪər] 배반자
+14:43 sword [sɔːrd] 칼 {swords} ; club [klʌb] 몽둥이 {clubs}
+14:44 arrange [əˈreɪndʒ] 정하다 {arranged} ; signal [ˈsɪɡnəl] 신호 ; kiss [kɪs] 입 맞추다 ; securely [sɪˈkjʊrli] 단단히
+14:46 lay hands on [leɪ hændz ɑːn] 손을 대다, 붙잡다 {laid hands}
+14:47 draw [drɔː] (칼을) 뽑다 {drew}
+14:48 robber [ˈrɑːbər] 강도
+14:49 fulfill [fʊlˈfɪl] 이루다 {fulfilled}
+14:51 linen [ˈlɪnɪn] 아마포
+14:52 naked [ˈneɪkɪd] 벌거벗은
+14:54 courtyard [ˈkɔːrtjɑːrd] 안뜰 ; guard [ɡɑːrd] 경비병 {guards}
+14:55 Sanhedrin [sænˈhiːdrɪn] 최고 의회
+14:56 agree [əˈɡriː] 일치하다
+14:57 take the stand [teɪk ðə stænd] 증인석에 서다 {took the stand} ; allege [əˈledʒ] 주장하다 {alleging}
+14:60 assembly [əˈsembli] 회의, 모임
+14:61 the Blessed One [ðə ˈblesɪd wʌn] 찬미받으실 분 {Blessed One}
+14:63 garment [ˈɡɑːrmənt] 옷 {garments}
+14:64 deserve [dɪˈzɜːrv] ~을 받을 만하다 {deserving}
+14:65 blindfold [ˈblaɪndfoʊld] 눈을 가리다 {blindfolded} ; blow [bloʊ] 타격, 주먹질 {blows}
+14:66 maid [meɪd] 하녀 {maids}
+14:67 intently [ɪnˈtentli] 뚫어지게 ; Nazarene [ˌnæzəˈriːn] 나자렛 사람
+14:68 outer court [ˈaʊtər kɔːrt] 바깥뜰 {outer court}
+14:70 Galilean [ˌɡælɪˈliːən] 갈릴래아 사람
+14:71 swear [swer] 맹세하다
+14:72 break down [breɪk daʊn] 울음을 터뜨리다 {broke down} ; weep [wiːp] 울다 {wept}
+15:1 council [ˈkaʊnsəl] 회의 ; bind [baɪnd] 묶다 (bound: 과거) {bound} ; Pilate [ˈpaɪlət] 빌라도
+15:2 the Jews [ðə dʒuːz] 유다인들 {Jews}
+15:3 accuse [əˈkjuːz] 고발하다 {accused}
+15:5 further [ˈfɜːrðər] 더 이상의
+15:6 release [rɪˈliːs] 풀어 주다 ; prisoner [ˈprɪzənər] 죄수 ; request [rɪˈkwest] 요청하다 {requested}
+15:7 Barabbas [bəˈræbəs] 바라빠 ; rebel [ˈrebəl] 반란자 {rebels} ; rebellion [rɪˈbeljən] 반란
+15:8 accustomed [əˈkʌstəmd] 늘 하던
+15:10 envy [ˈenvi] 시기
+15:11 stir up [stɜːr ʌp] 선동하다 {stirred up} ; instead [ɪnˈsted] 대신에
+15:13 crucify [ˈkruːsɪfaɪ] 십자가에 못 박다 {Crucify}
+15:14 louder [ˈlaʊdər] 더 큰 소리로
+15:15 satisfy [ˈsætɪsfaɪ] 만족시키다 ; scourge [skɜːrdʒ] 채찍질하다 {scourged}
+15:16 palace [ˈpæləs] 관저 ; praetorium [priˈtɔːriəm] 총독 관저 ; assemble [əˈsembəl] 모으다 {assembled} ; cohort [ˈkoʊhɔːrt] 대대, 부대
+15:17 purple [ˈpɜːrpəl] 자주색 옷 ; weave [wiːv] 엮다 {weaving} ; crown of thorns [kraʊn əv θɔːrnz] 가시관 {crown of thorns}
+15:18 salute [səˈluːt] 경례하다 ; Hail [heɪl] 만세
+15:19 reed [riːd] 갈대 ; homage [ˈhɑːmɪdʒ] 경의, 절
+15:20 strip [strɪp] 벗기다 {stripped}
+15:21 press into service [pres ˈɪntu ˈsɜːrvɪs] 억지로 시키다 {pressed into service} ; passer-by [ˈpæsər baɪ] 지나가는 사람 ; Cyrenian [saɪˈriːniən] 키레네 사람
+15:22 Golgotha [ˈɡɑːlɡəθə] 골고타 ; skull [skʌl] 해골
+15:23 drug [drʌɡ] 약을 타다 {drugged} ; myrrh [mɜːr] 몰약
+15:24 cast lots [kæst lɑːts] 제비를 뽑다 {casting lots}
+15:26 inscription [ɪnˈskrɪpʃən] 명패 글 ; charge [tʃɑːrdʒ] 죄목
+15:27 revolutionary [ˌrevəˈluːʃəneri] 혁명가, 강도 {revolutionaries}
+15:29 revile [rɪˈvaɪl] 욕하다 {reviled} ; rebuild [ˌriːˈbɪld] 다시 짓다
+15:31 mock [mɑːk] 조롱하다 {mocked}
+15:32 abuse [əˈbjuːz] 모욕하다 {abusing}
+15:33 darkness [ˈdɑːrknəs] 어둠
+15:34 forsake [fərˈseɪk] 버리다 (forsaken: 과거분사) {forsaken}
+15:36 soak [soʊk] 적시다 {soaked} ; sponge [spʌndʒ] 해면
+15:37 breathe one's last [briːð lɑːst] 숨을 거두다 {breathed his last}
+15:38 veil [veɪl] 휘장 ; sanctuary [ˈsæŋktʃueri] 성소
+15:39 centurion [senˈtʊriən] 백인대장
+15:40 Mary Magdalene [ˈmeri ˈmæɡdəliːn] 마리아 막달레나 {Mary Magdalene} ; Salome [səˈloʊmi] 살로메
+15:42 preparation [ˌprepəˈreɪʃən] 준비
+15:43 Arimathea [ˌærɪməˈθiːə] 아리마태아 ; distinguished [dɪˈstɪŋɡwɪʃt] 존경받는 ; await [əˈweɪt] 기다리다 {awaiting} ; courageously [kəˈreɪdʒəsli] 용감하게
+15:45 learn of [lɜːrn əv] ~을 알게 되다 {learned}
+15:46 wrap [ræp] 싸다 {wrapped} ; hew [hjuː] 깎아 만들다 {hewn} ; entrance [ˈentrəns] 입구
+16:1 spice [spaɪs] 향료 {spices} ; anoint [əˈnɔɪnt] 바르다
+16:2 sun [sʌn] 해
+16:3 roll back [roʊl bæk] 굴려 내다 {roll back}
+16:5 robe [roʊb] 옷
+16:6 crucified [ˈkruːsɪfaɪd] 십자가에 못 박힌
+16:8 flee [fliː] 달아나다 {fled} ; trembling [ˈtremblɪŋ] 떨림 ; bewilderment [bɪˈwɪldərmənt] 당혹
+16:9 appear [əˈpɪr] 나타나다 {appeared}
+16:10 companion [kəmˈpænjən] 동료 {companions} ; mourn [mɔːrn] 슬퍼하다 {mourning}
+16:12 form [fɔːrm] 모습
+16:14 the eleven [ði ɪˈlevən] 열한 제자 {eleven} ; unbelief [ˌʌnbɪˈliːf] 불신
+16:15 creature [ˈkriːtʃər] 피조물
+16:16 condemn [kənˈdem] 단죄하다 {condemned}
+16:17 accompany [əˈkʌmpəni] 따르다
+16:18 serpent [ˈsɜːrpənt] 뱀 {serpents} ; deadly [ˈdedli] 치명적인 ; harm [hɑːrm] 해치다 ; recover [rɪˈkʌvər] 회복하다
+16:19 take up [teɪk ʌp] 들어 올리다 {taken up}
+16:20 confirm [kənˈfɜːrm] 확증하다 {confirmed}
