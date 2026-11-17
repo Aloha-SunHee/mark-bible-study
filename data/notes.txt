@@ -422,3 +422,4 @@
 12:42 coin [kɔɪn] 동전 {coins} ; cent [sent] 센트, 푼 {cents}
 12:43 contributor [kənˈtrɪbjətər] 헌금한 사람 {contributors}
 12:44 surplus [ˈsɜːrpləs] 여분의 ; poverty [ˈpɑːvərti] 가난 ; livelihood [ˈlaɪvlihʊd] 생활비, 생계
+11:33 in reply [ɪn rɪˈplaɪ] 대답하여 {reply} ; neither [ˈniːðər] ~도 아니다 {Neither}
