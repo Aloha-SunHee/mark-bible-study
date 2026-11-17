@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>马尔谷福音 · 마르코 복음 중영 성경공부</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Serif+KR:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
+:root{
+  --paper:#fbf8f2; --ink:#2a2622; --mute:#857c72; --line:#e4dccf; --band:#efe9df; --band2:#e6ded1;
+  --accent:#8a2b2b; --accent2:#b8925a; --zh:'Noto Serif SC',serif; --ko:'Noto Serif KR',serif; --en:'EB Garamond',Georgia,serif;
+  --fs:17px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--ko);font-size:var(--fs);line-height:1.7}
+.layout{display:grid;grid-template-columns:270px 1fr;min-height:100vh}
+nav.side{position:sticky;top:0;height:100vh;overflow:auto;border-right:1px solid var(--line);padding:22px 16px 40px;background:#f6f1e8}
+.brand{font-family:var(--zh);font-size:22px;font-weight:700;color:var(--accent);letter-spacing:.08em}
+.brand small{display:block;font-family:var(--ko);font-size:12px;color:var(--mute);letter-spacing:0;font-weight:400;margin-top:2px}
+.tools{margin:16px 0 18px;display:flex;flex-wrap:wrap;gap:6px}
+.tools button{font:12px var(--ko);border:1px solid var(--line);background:#fff;color:var(--ink);padding:5px 9px;border-radius:999px;cursor:pointer}
+.tools button.off{background:transparent;color:var(--mute);text-decoration:line-through}
+.navch{margin-bottom:12px}
+.navct{font-family:var(--zh);font-size:13px;color:var(--accent);font-weight:600;border-bottom:1px solid var(--line);padding-bottom:3px;margin-bottom:4px}
+nav.side a{display:block;color:var(--ink);text-decoration:none;font-size:13px;padding:3px 6px;border-radius:5px;line-height:1.45}
+nav.side a span{color:var(--mute);font-variant-numeric:tabular-nums;margin-right:4px}
+nav.side a:hover{background:var(--band)}
+main{max-width:1060px;width:100%;margin:0 auto;padding:36px 44px 120px}
+.cover{text-align:center;padding:40px 0 30px;border-bottom:3px double var(--line);margin-bottom:40px}
+.cover h1{font-family:var(--zh);font-size:46px;letter-spacing:.25em;margin:0;color:var(--accent);font-weight:700}
+.cover .s1{font-family:var(--en);font-size:22px;font-style:italic;margin-top:6px}
+.cover .s2{font-size:15px;color:var(--mute);margin-top:4px}
+.cover .legend{margin:22px auto 0;max-width:620px;font-size:13px;color:var(--mute);line-height:1.8}
+.peri{margin:0 0 70px}
+.peri-h{border-left:6px solid var(--accent);padding:6px 0 6px 18px;margin-bottom:26px}
+.peri-ref{font-size:13px;color:var(--mute);letter-spacing:.04em}
+.peri-h h2{font-family:var(--zh);font-size:30px;margin:4px 0 2px;font-weight:700}
+.peri-sub{display:flex;gap:16px;flex-wrap:wrap;font-size:15px}
+.peri-sub .en{font-family:var(--en);font-style:italic;font-size:18px}
+.peri-sub .ko{color:var(--mute)}
+.verse{background:#fff;border:1px solid var(--line);border-radius:4px;margin:0 0 26px;overflow:hidden;break-inside:avoid;page-break-inside:avoid}
+.band{display:flex;background:linear-gradient(90deg,var(--band),var(--band) 100%)}
+.num{flex:0 0 54px;background:var(--accent);color:#fff;font:700 24px var(--en);display:flex;align-items:flex-start;justify-content:center;padding-top:22px}
+.band .zh{padding:12px 20px 12px;flex:1}
+.zh{font-family:var(--zh)}
+.zh.big{font-size:27px;line-height:2.15;letter-spacing:.02em}
+ruby{ruby-position:over;margin:0 .07em}
+rt{font-family:var(--en);font-size:.43em;color:#7a6f63;letter-spacing:0;font-weight:400}
+.zh .p{color:#5b534b}
+body.nopy rt{visibility:hidden}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:0}
+.col{padding:14px 20px 16px}
+.two .col+.col{border-left:1px solid var(--line)}
+.lower{border-top:1px dashed var(--line);background:#fdfbf7}
+.lab{font:600 11px var(--ko);letter-spacing:.12em;color:var(--accent2);text-transform:uppercase;margin-bottom:4px}
+p{margin:0}
+p.en{font-family:var(--en);font-size:1.12em;line-height:1.65}
+p.en .w{border-bottom:1px dotted var(--accent2)}
+sup{font-size:.6em;color:var(--accent);margin-left:1px}
+p.ko{font-size:1em}
+table.vocab{border-collapse:collapse;width:100%;font-size:14px}
+table.vocab td{padding:2px 6px 2px 0;vertical-align:top;border-bottom:1px solid #f1ece3}
+.vw{font-family:var(--zh);font-weight:600;white-space:nowrap;font-size:16px}
+.vp{font-family:var(--en);color:var(--mute);white-space:nowrap;font-size:15px}
+.vm{width:60%}
+ol.notes{list-style:none;padding:0;margin:0;font-size:14px}
+ol.notes li{padding:2px 0;border-bottom:1px solid #f1ece3}
+ol.notes b{color:var(--accent);font-weight:600;font-family:var(--en)}
+.nt{font-family:var(--en);font-weight:600;font-size:15px}
+.gram{margin:0;border-top:1px solid var(--line);padding:14px 20px 16px;background:#f8f3ea}
+.gt{font-family:var(--zh);font-weight:700;color:var(--accent);font-size:16px}
+.gd{font-size:14px;color:#5b534b;margin:2px 0 8px}
+.gx{padding:4px 0 6px 12px;border-left:2px solid var(--accent2);margin-bottom:6px}
+.gx .zh{font-size:19px;line-height:2}
+.gk{font-size:14px;color:var(--mute)}
+body.noko .ko-col,body.noko .gk{display:none}
+body.noko .two:not(.lower){grid-template-columns:1fr}
+body.novocab .lower{display:none}
+body.nogram .gram{display:none}
+body.noen .two:not(.lower) .col:first-child,body.noen .lower .col:last-child{display:none}
+body.noen .two{grid-template-columns:1fr}
+.say{border:0;background:none;cursor:pointer;font-size:12px;padding:0 3px;opacity:.55;vertical-align:middle}
+.say:hover{opacity:1}
+.num{flex-direction:column;align-items:center;gap:6px}
+.say.big{font-size:15px;filter:grayscale(1) brightness(3);opacity:.8}
+.ipa{font-family:'Noto Sans',Arial,sans-serif;color:var(--mute);font-size:13px}
+p.en.tmp{color:#6f675e;font-style:italic}
+.pend{font-size:13px;color:var(--mute)}
+body.nosay .say{display:none}
+.foot{margin-top:60px;font-size:12px;color:var(--mute);border-top:1px solid var(--line);padding-top:14px;line-height:1.7}
+.menu-btn{display:none}
+@media (max-width:860px){
+  .layout{grid-template-columns:1fr}
+  nav.side{position:fixed;inset:0 30% 0 0;z-index:20;transform:translateX(-105%);transition:.2s;box-shadow:0 0 30px rgba(0,0,0,.15)}
+  nav.side.open{transform:none}
+  .menu-btn{display:block;position:fixed;top:12px;left:12px;z-index:30;background:var(--accent);color:#fff;border:0;border-radius:999px;padding:8px 14px;font:13px var(--ko)}
+  main{padding:56px 14px 80px}
+  .two{grid-template-columns:1fr}.two .col+.col{border-left:0;border-top:1px solid var(--line)}
+  .zh.big{font-size:22px}.num{flex-basis:38px;font-size:18px}
+  .cover h1{font-size:34px}
+}
+@media print{
+  nav.side,.menu-btn{display:none}.layout{display:block}main{padding:0;max-width:none}
+  body{background:#fff;font-size:12pt}.verse{border-color:#ccc}
+  .peri{page-break-before:always}.cover{page-break-after:always}
+}
+</style>
+</head>
+<body>
+<button class="menu-btn" onclick="document.querySelector('nav.side').classList.toggle('open')">目录 · 목차</button>
+<div class="layout">
+<nav class="side">
+ <div class="brand">马尔谷福音<small>마르코 복음 · 중국어·영어 성경공부</small></div>
+ <div class="tools">
+  <button data-t="nopy">拼音 병음</button>
+  <button data-t="noen">English</button>
+  <button data-t="noko">한국어</button>
+  <button data-t="novocab">단어</button>
+  <button data-t="nogram">语法</button>
+  <button data-t="nosay">🔊 듣기</button>
+  <button data-f="-1">A−</button><button data-f="1">A+</button>
+ </div>
+ {{NAV}}
+</nav>
+<main>
+ <div class="cover">
+  <h1>马尔谷福音</h1>
+  <div class="s1">The Gospel according to Mark</div>
+  <div class="s2">마르코 복음 · 중국어 · 영어 성경공부</div>
+  <div class="legend">中文: 思高本 (简体) · English: New American Bible (NAB, Vatican) · 한국어: 성경(한국천주교주교회의)<br>왼쪽 목차에서 단락을 고르고, 위 단추로 병음·영어·한국어·단어·어법을 켜고 끌 수 있습니다.</div>
+ </div>
+ {{BODY}}
+ <div class="foot">Scripture texts in English are taken from the New American Bible © Confraternity of Christian Doctrine, Washington, D.C., as published on vatican.va and ccreadbible.org. 中文经文采自思高圣经 (Studium Biblicum O.F.M.). 한국어 성경 © 한국천주교주교회의. 본당 성경공부용 비상업 자료입니다.</div>
+</main>
+</div>
+<script>
+(function(){
+  var b=document.body, KEY='mkstudy';
+  var st={};try{st=JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){}
+  function apply(){
+    ['nopy','noen','noko','novocab','nogram','nosay'].forEach(function(c){
+      b.classList.toggle(c,!!st[c]);
+      var btn=document.querySelector('[data-t="'+c+'"]'); if(btn) btn.classList.toggle('off',!!st[c]);
+    });
+    document.documentElement.style.setProperty('--fs',(st.fs||17)+'px');
+  }
+  function save(){try{localStorage.setItem(KEY,JSON.stringify(st))}catch(e){}}
+  document.querySelectorAll('[data-t]').forEach(function(x){x.onclick=function(){var c=x.dataset.t;st[c]=!st[c];apply();save();}});
+  document.querySelectorAll('[data-f]').forEach(function(x){x.onclick=function(){st.fs=Math.max(13,Math.min(24,(st.fs||17)+(+x.dataset.f)));apply();save();}});
+  document.querySelectorAll('nav.side a').forEach(function(a){a.addEventListener('click',function(){document.querySelector('nav.side').classList.remove('open')})});
+  var syn=window.speechSynthesis;
+  function voice(l){try{var vs=syn.getVoices();var pre=l==='zh'?'zh':'en';
+    return vs.filter(function(v){return v.lang&&v.lang.replace('_','-').toLowerCase().indexOf(pre==='zh'?'zh-cn':'en-us')===0})[0]||vs.filter(function(v){return v.lang&&v.lang.toLowerCase().indexOf(pre)===0})[0]||null}catch(e){return null}}
+  document.addEventListener('click',function(e){
+    var b=e.target.closest('.say'); if(!b) return;
+    if(!syn){b.title='이 브라우저는 음성 읽기를 지원하지 않아요';return}
+    try{syn.cancel();var u=new SpeechSynthesisUtterance(b.dataset.s.replace(/[「」『』]/g,''));
+      u.lang=b.dataset.l==='zh'?'zh-CN':'en-US';var v=voice(b.dataset.l);if(v)u.voice=v;u.rate=b.dataset.l==='zh'?0.8:0.9;syn.speak(u);}catch(err){}
+  });
+  apply();
+})();
+</script>
+</body>
+</html>
