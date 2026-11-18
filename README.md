@@ -27,7 +27,7 @@
 | 언어 | 번역본 | 출처 |
 |---|---|---|
 | 중국어 | **思高汉译圣经** (思高圣经学会 Studium Biblicum O.F.M. 译, 简体) | 대만 프란치스코회가 제공하는 中英对照圣经 (https://www.ccreadbible.org/chinesebible/nab_nabhtm) |
-| 영어 | **New American Bible (NAB)**: 바티칸 누리집에 실린 영어 성경 | 같은 곳 (ccreadbible.org 思高·NAB 中英对照) |
+| 영어 | **New American Bible (NAB)** | 굿뉴스 성경 (https://maria.catholic.or.kr/bible/) |
 | 한국어 | **『성경』**: 한국천주교중앙협의회 번역 | 굿뉴스 성경 (https://maria.catholic.or.kr/bible/) |
 
 - 중국어 본문은 번체로 된 원문을 간체로 바꾸었고, 명백한 오타 몇 곳(예: 遂出→逐出, 仍下→扔下, 詑异→诧异)만 바로잡았습니다.
